@@ -1,0 +1,25 @@
+{
+    "projects":[
+        {
+            "title": "Apere Store Waitlist",
+            "imageUrl": "https://apere.store/wp-content/uploads/2022/02/apere-mmm-1.png",
+            "project_url": "https://apere.store",
+            "description": "Welcome to Apẹrẹ Store, a leading online grocery store based in Lagos, Nigeria. We are committed to revolutionizing the way people shop for groceries by providing a convenient and hassle-free experience.",
+            "tags": [ "react", "postgresql", "python" ]
+        },
+        {
+            "title": "TheStoryTellerSarah",
+            "imageUrl": "https://thestorytellersarah.pythonanywhere.com/media/default.jpg",
+            "project_url": "https://thestorytellersarah.pythonanywhere.com/",
+            "description": "explore the captivating world of a Nigerian Blogger, Alade Sarah Omotayo, as she shares insightful stories, personal experiences, and valuable life lessons in this engaging storytelling blog.",
+            "tags": [ "web2", "python", "mysql" ]
+        },
+        {
+            "title": "RCCG Healing Balm",
+            "imageUrl": "https://healingbalm.pythonanywhere.com/static/assets/img/logo.png",
+            "project_url": "https://healingbalm.pythonanywhere.com/",
+            "description": "Welcome to Healing Balm, a sanctuary of solace and spiritual healing. Our mission is to make professional therapy accessible, affordable, and convenient - so anyone who struggles with life's challenges can get help anytime anywhere.",
+            "tags": [ "web2", "python", "mysql" ]
+        }
+    ]
+}
